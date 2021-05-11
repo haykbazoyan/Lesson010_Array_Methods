@@ -1,0 +1,1 @@
+> filterMethod.js; mapMethod.js; reduceMethod.js; sortMethod.js files I used some array methods.
